@@ -31,7 +31,7 @@ $ cd nodejs-concepts
 $ yarn install
 
 # Start application
-$ yarn dev
+$ yarn dev:server
 
 # Run tests
 $ yarn test
